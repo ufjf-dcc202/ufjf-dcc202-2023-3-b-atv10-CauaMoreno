@@ -1,5 +1,5 @@
 let maria = 2;
-let joao = 1
+let joao = 1;
 
 function getMaria()
 {
